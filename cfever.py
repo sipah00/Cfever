@@ -61,6 +61,8 @@ def main():
     print("SMS has been sent.")
 
 
+def mailgun():
+	print "using mailgun api"
 
 if __name__ == '__main__':
     while True:
